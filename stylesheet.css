@@ -1,0 +1,112 @@
+body {
+    font-family: "Avenir Next";
+  }
+/* header */
+
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #070808;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+/* main */
+                    /*copy-container*/
+
+  .copy-container{
+    padding: 33px 20px;
+    height: 800px;
+    text-align: center;
+  }
+  .copy-container h1 {
+    font-size: 120px;
+  }
+  
+  .copy-container h2 {
+    font-size: 40px;
+  }
+  
+  .img-ninja-ken{
+    width: 400px;
+    margin-top: 0px;
+  }
+                /*tentang-saya*/
+  .tentang-saya{
+    text-align: center;
+    background-color: #edeff0;
+    color: #000;
+    height: 400px;
+    padding: 80px 80px;
+    
+  }
+                /*proyek-contoh*/
+  .proyek-contoh {
+    height: 800px;
+    margin-top: 0px;
+    padding: 100px 80px;
+  }
+  
+  .proyekcontoh-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  .proyekcontoh-item {
+    float: left;
+    margin-right: 40px;
+    text-align: center;
+  }
+  img {
+    width: 450px;
+    height: 450px;
+    
+}
+  
+  .proyekcontoh-item p {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+                /*hubungi-saya*/
+  .hubungi-saya{
+    height: 700px;
+    background-color: #d9dfe2;
+  }
+                
+
+/* footer */
+.footer {
+    background-color: #181a1b;
+    color: #fff;
+    height: 190px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
